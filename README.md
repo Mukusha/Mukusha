@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, меня зовут Светлана 
+<h1 align="center">Всем привет
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ищу себя в IT среде</h3>
 
